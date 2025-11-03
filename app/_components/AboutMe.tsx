@@ -62,17 +62,10 @@ const AboutMe = () => {
                     </div>
                     <div className="md:col-span-7">
                         <div className="text-lg text-muted-foreground max-w-[450px]">
-                            <p className="slide-up-and-fade">
-                                I&apos;m a 3rd-year B.Tech CSE (Data Science) student with 
-                                a deep interest in fintech, technology, and innovation. 
-                                My work blends logic and creativity — whether it’s analyzing 
-                                data, designing smart systems, or building scalable software.
-                            </p>
                             <p className="mt-3 slide-up-and-fade">
-                                I have an entrepreneurial and practical mindset — I enjoy 
-                                turning ideas into working products and constantly push myself 
-                                to learn by doing. I believe in consistency, iteration, and 
-                                the grind behind meaningful progress.
+                                I’m all about building ideas that actually *work*.  
+                                Whether it’s a startup concept, a dashboard, or a crazy side project,  
+                                I like getting my hands dirty and turning caffeine into impact.
                             </p>
                             <p className="mt-3 slide-up-and-fade">
                                 Outside tech, I’m into sports and music — both of which shape 
