@@ -18,30 +18,40 @@ export const SOCIAL_LINKS = [
 ];
 
 export const MY_STACK = {
-    frontend: [
-        { name: 'JavaScript', icon: '/logo/js.png' },
-        { name: 'TypeScript', icon: '/logo/ts.png' },
-        { name: 'React', icon: '/logo/react.png' },
-        { name: 'Next.js', icon: '/logo/next.png' },
-        { name: 'Tailwind CSS', icon: '/logo/tailwind.png' },
-        { name: 'GSAP', icon: '/logo/gsap.png' },
-        { name: 'Framer Motion', icon: '/logo/framer-motion.png' },
-    ],
-    backend: [
+    ai_ml: [
         { name: 'Python', icon: '/logo/python.png' },
-        { name: 'Flask', icon: '/logo/flask.png' },
-        { name: 'Node.js', icon: '/logo/node.png' },
+        { name: 'scikit-learn', icon: '/logo/scikit-learn.png' },
+        { name: 'Pandas', icon: '/logo/Pandas.png' },
+        { name: 'NumPy', icon: '/logo/NumPy.png' },
+        { name: 'Matplotlib', icon: '/logo/Matplotlib.png' },
     ],
+
+    data_analytics: [
+        { name: 'Streamlit', icon: '/logo/Streamlit.png' },
+        { name: 'Power BI', icon: '/logo/PowerBI.png' }, 
+        { name: 'Excel', icon: '/logo/Excel.png' }, 
+        { name: 'Postman', icon: '/logo/Postman.png' },
+        { name: 'Canva', icon: '/logo/Canva.png' },
+    ],
+
     database: [
-        { name: 'MySQL', icon: '/logo/mysql.svg' },
-        { name: 'PostgreSQL', icon: '/logo/postgreSQL.png' },
+        { name: 'MySQL', icon: '/logo/mysql.png' },
+        { name: 'PostgreSQL', icon: '/logo/PostgreSQL.png' },
+        { name: 'MongoDB', icon: '/logo/mongodb.png' },
     ],
+
     tools: [
         { name: 'Git', icon: '/logo/git.png' },
-        { name: 'Vercel', icon: '/logo/vercel.png' },
-        { name: 'Docker', icon: '/logo/docker.svg' },
+        { name: 'GitHub', icon: '/logo/github.png' },
+        { name: 'VS Code', icon: '/logo/Visual Studio Code (VS Code).png' },
+        { name: 'Node.js', icon: '/logo/node.png' },
+        { name: 'C++', icon: '/logo/C++ (CPlusPlus).png' },
+        { name: 'Java', icon: '/logo/Java.png' },
+        { name: 'Linux', icon: '/logo/Linux.png' },
+        { name: 'Slack', icon: '/logo/Slack.png' },
     ],
 };
+
 
 export const PROJECTS: IProject[] = [
     {
