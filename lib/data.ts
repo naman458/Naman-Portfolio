@@ -35,8 +35,8 @@ export const MY_STACK = {
     ],
 
     database: [
-        { name: 'MySQL', icon: '/logo/mysql.png' },
-        { name: 'PostgreSQL', icon: '/logo/PostgreSQL.png' },
+        { name: 'MySQL', icon: '/logo/MySQL.png' },
+        { name: 'PostgreSQL', icon: '/logo/PostgresSQL.png' },
         { name: 'MongoDB', icon: '/logo/mongodb.png' },
     ],
 
