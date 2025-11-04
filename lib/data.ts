@@ -8,6 +8,8 @@ export const GENERAL_INFO = {
 
     oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
     upworkProfile: 'https://www.upwork.com/freelancers/tajmirul',
+    linkedinProfile: "https://www.linkedin.com/in/naman458", 
+
 };
 
 export const SOCIAL_LINKS = [
