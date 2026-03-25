@@ -14,7 +14,8 @@ export const GENERAL_INFO = {
 export const SOCIAL_LINKS = [
     { name: 'github', url: 'https://github.com/naman458' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/naman458' },
-    { name: 'instagram', url: 'https://instagram.com/naman_458' }, // optional
+    { name: 'instagram', url: 'https://instagram.com/naman_458' },
+    { name: 'resume', url: 'https://drive.google.com/drive/folders/1hHrNt7fwWKxotOeRHFke18arZftFo3wv?usp=sharing' }, 
 ];
 
 export const MY_STACK = {
